@@ -16,3 +16,5 @@ git commit -m "mensagem": faz o commit com mensagem
 git log: mostra os commit efetuados
 
 git diff <nome do arquivo> : mostra o que foi alterado
+
+git merge <nome_da_branch>: mescla os dados da branch (deve estar na main/master)
