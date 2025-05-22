@@ -17,9 +17,10 @@ git log: mostra os commit efetuados
 
 git diff <nome do arquivo> : mostra o que foi alterado
 
-<<<<<<< HEAD
 git merge <nome_da_branch>: mescla os dados da branch (deve estar na main/master)
-=======
+
 -- comandos branches
 git checkout -b <nome_da_branch>: troca/cria a branch (-b: cria)
->>>>>>> branch_secundaria
+git merge <nome_da_branch>: traz os dados da branch para a branch corrente
+git branch: mostra a branch corrente
+git branch -D <nome_da_branch>: deleta a branch (não pode estar nela)
