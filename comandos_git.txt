@@ -24,3 +24,10 @@ git checkout -b <nome_da_branch>: troca/cria a branch (-b: cria)
 git merge <nome_da_branch>: traz os dados da branch para a branch corrente
 git branch: mostra a branch corrente
 git branch -D <nome_da_branch>: deleta a branch (não pode estar nela)
+
+-- comandos Git para o GitHub
+git remote add origin <https://github.com/robertoBorgesJr/git-github-2025.git> : seta a pasta ao remote origin
+git push origin <branch> : envia a branch ao remote origin
+
+-- comandos GitHub
+fazer o PullRequest
