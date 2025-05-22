@@ -1,0 +1,12 @@
+-- comandos git
+git init . : inicializa o git para a pasta corrente
+git status : mostra o status do git
+git add <arquivo>: adiciona o arquivo ao git (ao próximo commit)
+
+git config --global user.email "borgesjoy@gmail.com": seta o email do usuário do git
+git config --global user.name "Roberto Borges" : seta o nome do usuário do git
+
+git config --global user.email: mostra o email do user atual
+git config --global user.name: mostra o nome do user atual
+
+git commit -m "mensagem": faz o commit com mensagem
