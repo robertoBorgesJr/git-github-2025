@@ -4,5 +4,5 @@ ls: lista os arquivos
 cd: muda o diretório
 pwd: mostra o caminho absoluto de onde estou (o diretório)
 cat: exibe conteúdo do arquivo texto
-nano: editor de texto
+nano: editor de texto 
 rm -rf: remover arquivo/diretório (-r: remover recursivamente diretórios) (-f: forçar)

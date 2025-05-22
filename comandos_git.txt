@@ -10,3 +10,5 @@ git config --global user.email: mostra o email do user atual
 git config --global user.name: mostra o nome do user atual
 
 git commit -m "mensagem": faz o commit com mensagem
+
+git log: mostra os commit efetuados
