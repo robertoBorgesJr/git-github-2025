@@ -1,0 +1,10 @@
+ls: lista os arquivos
+  ls -a: mostra ocultos
+
+cd: muda o diretório
+pwd: mostra o caminho absoluto de onde estou (o diretório)
+rm -rf: remover arquivo/diretório (-r: remover recursivamente diretórios) (-f: forçar)
+
+-- comandos git
+git init . : inicializa o git para a pasta corrente
+git status : mostra o status do git
